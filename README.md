@@ -10,8 +10,10 @@ Compress folder or file by gzip;
 
     gzip-folder <folder|file>
 
-- specify output:
+### specify output:
 
-    gzip-folder <folder|file> --out <folder|file>
-    
-`Don't use absolute path,This is just a small tool`;
+
+        gzip-folder <folder|file> --out <folder|file>
+
+
+**Don't use absolute path,This is just a small tool**;

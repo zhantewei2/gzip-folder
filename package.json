@@ -7,6 +7,10 @@
   "bin": {
     "gzip-folder": "index.js"
   },
+  "repository":{
+    "type":"git",
+    "url":"github.com/zhantewei2/gzip-folder"
+  },
   "author": "zhantewei",
   "license": "ISC"
 }

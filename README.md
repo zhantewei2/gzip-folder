@@ -1,6 +1,8 @@
 gzip-folder
 ---
-Compress folder or file by gzip;
+*command line tools with node*;
+
+**Compress folder or file by gzip**;
 
 ### install
 

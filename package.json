@@ -1,8 +1,9 @@
 {
-  "name": "gzip-floder",
-  "version": "1.0.0",
+  "name": "gzip-folder",
+  "version": "1.0.1",
   "description": "gzip compress folder or file",
   "scripts": {},
+  "keywords": ["gzip","folder"],
   "bin": {
     "gzip-folder": "index.js"
   },

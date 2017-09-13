@@ -16,4 +16,4 @@ Compress folder or file by gzip;
         gzip-folder <folder|file> --out <folder|file>
 
 
-**Don't use absolute path,This is just a small tool**;
+**This is just a small tool**;

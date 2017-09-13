@@ -4,11 +4,11 @@ Compress folder or file by gzip;
 
 ### install
 
-        npm install gzip-folder
+        npm install -g gzip-folder
 
 ### use
 
-    gzip-folder <folder|file>
+        gzip-folder <folder|file>
 
 ### specify output:
 

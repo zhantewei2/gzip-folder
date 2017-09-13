@@ -1,0 +1,11 @@
+{
+  "name": "gzip-floder",
+  "version": "1.0.0",
+  "description": "gzip compress folder or file",
+  "scripts": {},
+  "bin": {
+    "gzip-folder": "index.js"
+  },
+  "author": "zhantewei",
+  "license": "ISC"
+}
